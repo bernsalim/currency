@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.App-intro{
+  text-align: center;
+}
+
+.ex{
+  padding:10px;
+}
+.dropdown {
+  margin-left: 45px;
+  text-align: left;
+  max-height: 90px;
+  max-width: 200px;
+  overflow-y:scroll;
+  color:black;
+}
+
+.ToDoInput {
+  margin-bottom: 5px;
+  height: 25px;
+  width: 400px;
+  font-size: medium;
+  background-color: wheat;
+}
+
+.ToDoSubmit {
+  border-radius: 5%;
+  height: 30px;
+  font-size: medium;
+  background-color: darkgray;
+  border: none;
+  box-shadow: blue;
+}
+
+

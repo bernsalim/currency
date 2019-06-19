@@ -1,0 +1,17 @@
+.ToDoList {
+    list-style-type: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    margin: 10px
+}
+
+li.ToDo {
+    font-size: 1.2em;
+    background-color: tan;
+    margin: 100px;
+    padding-left: 15px;
+}
+
+input.ToDo {
+    margin-right: 100px;
+}
